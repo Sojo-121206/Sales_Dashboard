@@ -47,7 +47,7 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-![image alt]()
+![image alt](Screenshot 2025-11-24 172134.png)
 
 📌 How to Use
 
